@@ -1,0 +1,22 @@
+{
+  "name": "day2-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "liuhx-cli": "./index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.7.1",
+    "koa": "^2.11.0",
+    "koa-ejs": "^4.2.0",
+    "koa-static": "^5.0.0",
+    "views": "^1.0.2"
+  }
+}
